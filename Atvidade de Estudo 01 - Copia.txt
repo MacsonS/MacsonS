@@ -1,0 +1,23 @@
+1 - AlgoritmoMatrizRetangular
+2 -      Var mat: vetor[1..2, 1..3] de inteiro
+3 -            i: inteiro
+4 -            j: inteiro
+5 -  Inicio
+6 -      j ← 0
+7 -      j ← 0 
+8 -        Enquanto i <= 2 faça
+9 -            Enquanto j <= 3 faça
+10 -                 mat[i,j] ← 1
+11 -                 i ← i + 1
+12 -                 j ← j + 1
+12 -           Fim_enquanto
+13 -               i ← 0
+14 -               j ← 0
+15 -       Fim_enquanto
+16 - Fim_algoritmo
+
+
+
+
+
+
